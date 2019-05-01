@@ -1,1 +1,1 @@
-# MyNotesApp project for CIS 4280
+# MyNotesApp project to save notes and sort them
